@@ -1,0 +1,15 @@
+<img src="{{ad.image}}" class="ad-image">
+<label>Title: </label>
+<h1>{{ad.title}}</h1>
+<br>
+<label>Description: </label>
+<p>{{ad.description}}</p>
+<br>
+<label>Publisher: </label>
+<div>{{ad.author}}</div>
+<br>
+<label>Date: </label>
+<div>{{ad.date}}</div>
+<br>
+<label>Views: </label>
+<div>{{ad.views}}</div>
